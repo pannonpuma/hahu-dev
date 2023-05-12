@@ -1,3 +1,2 @@
 <?php
-echo "First commit";
-?>
+require_once 'config.php';
